@@ -1,13 +1,18 @@
 GenerativeMemeGenerator/
+│
 ├── data/
-│ ├── training/
-│ └── validation/
+│   ├── training/
+│   └── validation/
+│
 ├── models/
+│
 ├── static/
-│ ├── css/
-│ └── js/
+│   ├── css/
+│   └── js/
+│
 ├── templates/
-│ └── index.html
+│   └── index.html
+│
 ├── app.py
 ├── train.py
 └── README.md
